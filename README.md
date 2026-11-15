@@ -1,16 +1,18 @@
-## Hi there 👋
+﻿# Okafor Collins
+**Full-Stack Web Developer** - 4 years building production web platforms - Enugu, Nigeria
 
-<!--
-**Doncollins042/Doncollins042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building government digital-transformation systems and client products with modern JavaScript and Python.
 
-Here are some ideas to get you started:
+### Stack
+React - Next.js - Vite - Tailwind CSS - Framer Motion - Node.js - Python - Firebase - Vercel - Netlify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Work
+| Project | What it is |
+|---|---|
+| [enugu-housing-platform](https://github.com/Doncollins042/enugu-housing-platform) | Housing platform for Enugu State Government |
+| [eshdc-site](https://github.com/Doncollins042/eshdc-site) | ESHDC document management, Board approval and land search system |
+| [twinly](https://github.com/Doncollins042/twinly) | AI chat twin that learns a user's texting style and auto-replies |
+| [draftroom](https://github.com/Doncollins042/draftroom) | Human-in-the-loop WhatsApp Business console. AI drafts replies in your voice |
+| [kobohunt](https://github.com/Doncollins042/kobohunt) | Single self-contained file — open index.html in any browser, or deploy the folder as-is to Netlify / Vercel... |
+| [race-delivery-app](https://github.com/Doncollins042/race-delivery-app) | Single self-contained file — open index.html in any browser, or deploy the folder as-is to Netlify / Vercel... |
+| [ascend-live](https://github.com/Doncollins042/ascend-live) | Ascend Live |
